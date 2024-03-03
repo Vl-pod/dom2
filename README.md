@@ -1,1 +1,1 @@
-![CI](https://github.com/PavelBarashkov/ahj-homeworks_DOM/actions/workflows/web.yml/badge.svg)# dom2
+![CI](https://github.com/<Vl-pod>/<domhw>/actions/jekyll-gh-pages.yml/badge.svg)
