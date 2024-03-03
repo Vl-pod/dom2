@@ -1,0 +1,1 @@
+body{color:#999}.container{display:flex;flex-wrap:wrap;justify-content:center;margin:0 auto;width:1200px}.container-item{background-position:50%;background-repeat:no-repeat;border:1px solid #000;height:120px;width:20%}.container-item.active{background-image:url(https://raw.githubusercontent.com/netology-code/ahj-homeworks/AHJ-50/dom/pic/goblin.png);box-shadow:5px 5px 10px red}
